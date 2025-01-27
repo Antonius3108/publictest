@@ -7,3 +7,4 @@ node_modules/
 /playwright/.cache/
 /cred.json
 /playwright.config.js
+playwright/
