@@ -38,6 +38,7 @@ test('test', async () => {
 });
 
 //Load all clients test
+//Test new update
 test('LoadClient', async () => {
   await page.getByText('Client', { exact: true }).click();
   await page.getByRole('button', { name: 'Load All' }).click();
