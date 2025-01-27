@@ -3,6 +3,9 @@
   "URL":"https://staging.abc24pro.com/authentication/signin/",
   "Division":"divisionyz",
   "username":"Aputra",
-  "Password":"vO9LEtXn"
+  "Password":"vO9LEtXn",
+  "URL2": "https://practicetestautomation.com/practice-test-login/",
+  "username2": "student",
+  "password2": "Password123"
   }
 }
